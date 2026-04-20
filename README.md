@@ -32,7 +32,7 @@ Follow these steps to get the project running on your local machine.
 ### 1. Clone the Repository
 Open your terminal or Anaconda Prompt and clone this repository:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/ai-image-captioning.git](https://github.com/ADARSHputhane/ai-image-captioning.git)
+git clone [https://github.com/ADARSHputhane/ai-image-captioning.git](https://github.com/ADARSHputhane/ai-image-captioning.git)
 cd ai-image-captioning
 ```
 
