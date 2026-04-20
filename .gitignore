@@ -1,0 +1,18 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual environments (if you ever put one in this folder)
+blip_env/
+venv/
+env/
+
+# Environment variables
+.env
+
+# The heavy local model weights (Do NOT push these to GitHub)
+blip-image-captioning-base/
+
+# User uploaded images
+static/uploads/*
+!static/uploads/.gitkeep
